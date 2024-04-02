@@ -9,7 +9,7 @@
 </head><body>
   <div class="layout">
     <header class="toolbar">
-      <h1>Emojoy!</h1>
+      <h1>Mike Hangouts</h1>
       <a href="{{logout_url}}" class="logout">Logout</a>
     </header>
     <div class="global-warning"></div>
