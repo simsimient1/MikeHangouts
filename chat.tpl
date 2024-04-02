@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html><head>
-  <title>Emojoy!</title>
+  <title>Mike Hangouts</title>
   <meta name="viewport" content="width=device-width">
-  <meta name="theme-color" content="#9C27B0">
+  <meta name="theme-color" content="#FF9595">
   <link rel="manifest" href="/manifest.json">
   <link rel="icon" type="image/png" href="/static/imgs/hangouts.png" sizes="42x42">
   <link href="/static/css/app.css" rel="stylesheet">
